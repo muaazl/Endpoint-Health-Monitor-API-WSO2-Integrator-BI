@@ -1,0 +1,8 @@
+[package]
+org = "muaaz"
+name = "endpointhealthmonitor"
+version = "0.1.0"
+title = "EndpointHealthMonitor"
+
+[build-options]
+sticky = true
