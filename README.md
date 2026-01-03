@@ -31,3 +31,8 @@ curl -s http://localhost:9090/monitor/check \
     ]
   }'
 ```
+
+## Evidence
+- Ping: GET /monitor/ping
+- Check: POST /monitor/check (example.com = UP, localhost:9999 = DOWN)
+- Screenshots: see `evidence/` folder
